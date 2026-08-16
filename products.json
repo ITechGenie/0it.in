@@ -1,0 +1,142 @@
+{
+  "site": {
+    "name": "0it.in",
+    "tagline": "The Digital Nexus",
+    "description": "A central hub for creative tools and interactive stories.",
+    "baseUrl": "https://0it.in",
+    "owner": "ITechGenie.com",
+    "ownerUrl": "https://itechgenie.com",
+    "favicon": "https://itechgenie.com/wp-content/uploads/gwpf_icon/favicon.ico",
+    "analytics": {
+      "amplitude": "d2d24f0a9dc5ae48b38d1d381b5eb03b"
+    }
+  },
+  "products": [
+    {
+      "slug": "adayastory",
+      "name": "Anothee Day Another Story",
+      "category": "DIGITAL STORYTELLING",
+      "tagline": "An immersive personal narrative journey through life's small moments.",
+      "description": "Personal blog and insights from daily life.",
+      "accentColor": "#f59e0b",
+      "ctaText": "Launch Experience",
+      "logo": "../assets/Profile.jpeg",
+      "url": "https://adayastory.com",
+      "shortUrl": "https://links.0it.in/adayastory/",
+      "links": [
+        {
+          "icon": "github",
+          "label": "Collaborate with me on Github",
+          "url": "https://github.com/prakashm88"
+        },
+        {
+          "icon": "twitter",
+          "label": "Read my threads on Twitter",
+          "url": "https://twitter.com/adayastory"
+        },
+        {
+          "icon": "linkedin",
+          "label": "Connect with me on LinkedIn",
+          "url": "https://www.linkedin.com/in/prakashm88/"
+        },
+        {
+          "icon": "youtube",
+          "label": "Watch my videos",
+          "url": "https://youtube.com/@adayastory"
+        }
+      ]
+    },
+    {
+      "slug": "myculinarygalaxy",
+      "name": "My Culinary Galaxy",
+      "category": "CREATIVE COOKING",
+      "tagline": "Explore a universe of flavors and recipe experiments in our cosmic kitchen.",
+      "description": "Cooking adventures and recipes from around the world.",
+      "accentColor": "#a855f7",
+      "ctaText": "Enter Galaxy",
+      "logo": "../assets/Logo.png",
+      "url": "https://myculinarygalaxy.com",
+      "shortUrl": "https://links.0it.in/myculinarygalaxy/",
+      "links": [
+        {
+          "icon": "instagram",
+          "label": "My reels at Instagram",
+          "url": "https://instagram.com/myculinarygalaxy"
+        },
+        {
+          "icon": "facebook",
+          "label": "Cook with me on Facebook",
+          "url": "https://facebook.com/myculinarygalaxy"
+        },
+        {
+          "icon": "youtube",
+          "label": "Watch my shorts on YouTube",
+          "url": "https://youtube.com/@myculinarygalaxy"
+        },
+        {
+          "icon": "twitter",
+          "label": "Watch my threads on Twitter",
+          "url": "https://twitter.com/myculinarygalaxy"
+        }
+      ]
+    },
+    {
+      "slug": "itechgenie",
+      "name": "ITechGenie",
+      "category": "Tech Product Suite",
+      "tagline": "Powerful developer tools and software utilities for modern creators.",
+      "description": "Technology solutions, guides, and developer tools.",
+      "accentColor": "#06b6d4",
+      "ctaText": "Summon Genie",
+      "logo": "../assets/Profile.jpeg",
+      "url": "https://itechgenie.com",
+      "shortUrl": "https://links.0it.in/itechgenie/",
+      "links": [
+        {
+          "icon": "github",
+          "label": "Collaborate with me on Github",
+          "url": "https://github.com/prakashm88"
+        },
+        {
+          "icon": "twitter",
+          "label": "Read my threads on Twitter",
+          "url": "https://twitter.com/itechgenie"
+        },
+        {
+          "icon": "linkedin",
+          "label": "Connect with me on LinkedIn",
+          "url": "https://www.linkedin.com/in/prakashm88/"
+        },
+        {
+          "icon": "youtube",
+          "label": "Watch tutorials on YouTube",
+          "url": "https://youtube.com/@itechgenie"
+        }
+      ]
+    },
+    {
+      "slug": "dodl",
+      "name": "Dodl",
+      "category": "Creating Apps",
+      "tagline": "A classic doodle playground designed for real-time sharing with loved ones, local network drawing, and solo creativity",
+      "description": "A classic doodle playground designed for real-time sharing with loved ones, local network drawing, and solo creativity. Enjoy seamless multi-user sessions, offline local connectivity, and a nostalgic drawing experience anywhere, anytime.",
+      "accentColor": "#f97316",
+      "ctaText": "Launch Dodl",
+      "logo": "../assets/doodle.jpg",
+      "url": "#",
+      "shortUrl": "https://links.0it.in/dodl/",
+      "links": [
+        {
+          "icon": "playstore",
+          "label": "Collaborate with me on Github",
+          "url": "https://play.google.com/store/apps/details?id=com.itechgenie.apps.dodl"
+        },
+        {
+          "icon": "feedback",
+          "label": "Provide your feedback",
+          "url": "https://forms.gle/ec7JFrM77EsHhqzD6"
+        }
+      ]
+    }
+  ]
+}

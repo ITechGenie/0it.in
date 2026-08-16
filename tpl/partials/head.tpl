@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A central hub for creative tools and interactive stories.">
-  <title>0IT.IN — The Digital Nexus</title>
-  <link rel="shortcut icon" href="https://itechgenie.com/wp-content/uploads/gwpf_icon/favicon.ico">
-  <link rel="apple-touch-icon" href="https://itechgenie.com/wp-content/uploads/gwpf_icon/favicon.ico">
-  <link rel="stylesheet" href="assets/style.css">
+  <meta name="description" content="{{DESCRIPTION}}">
+  <title>{{TITLE}}</title>
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="{{FAVICON_URL}}">
+  <link rel="apple-touch-icon" href="{{FAVICON_URL}}">
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="{{CSS_PATH}}">
   <script type="text/javascript">
 
     // JavaScript method to perform the redirect
@@ -56,87 +57,3 @@
 
   </script>
 </head>
-
-<body style="--accent: #06b6d4;">
-
-  <a class="sr-only" href="#main-content">Skip to main content</a>
-
-  <nav class="site-nav" aria-label="Site navigation">
-    <a href="/" class="logo" aria-label="0it.in home">
-      <span class="logo-box" aria-hidden="true">0</span>
-      <span>0IT.IN</span>
-    </a>
-    <ul class="nav-links" role="list">
-      <li><a href="#portfolio">Portfolio</a></li>
-      <li><a href="https://itechgenie.com/" target="_blank" rel="noopener">About</a></li>
-      <li><a href="https://github.com/prakashm88" target="_blank" rel="noopener">Github</a></li>
-    </ul>
-  </nav>
-
-  <main id="main-content">
-
-    <section class="hero" aria-labelledby="hero-title">
-      <span class="hero-eyebrow">The Digital Nexus</span>
-      <h1 class="hero-title" id="hero-title">
-        A central hub for <em>creative tools</em><br>and interactive stories.
-      </h1>
-    </section>
-
-    <section id="portfolio" aria-label="Products">
-      <div class="products-grid">
-
-        <!-- ITechGenie -->
-        <article class="product-card" style="--accent: #06b6d4;">
-          <span class="card-category">Tech Product Suite</span>
-          <h2 class="card-title">ITechGenie</h2>
-          <p class="card-desc">Powerful developer tools and software utilities for modern creators.</p>
-          <a href="./itechgenie/" target="_blank" rel="noopener" class="card-cta">
-            Summon Genie
-          </a>
-        </article>
-
-        <!-- Dodl (Do-dl / Doodle) -->
-        <article class="product-card" style="--accent: #06b6d4;">
-          <span class="card-category">Products</span>
-          <h2 class="card-title">Dodl (Do-dl / Doodle)</h2>
-          <p class="card-desc">A classic doodle playground designed for real-time sharing with loved ones, local network
-            drawing, and solo creativity.</p>
-          <a href="./dodl/" target="_blank" rel="noopener" class="card-cta">
-            Create Dodl
-          </a>
-        </article>
-
-        <!-- A Day A Story -->
-        <article class="product-card" style="--accent: #f59e0b;">
-          <span class="card-category">Digital Storytelling</span>
-          <h2 class="card-title">Another Day Another Story</h2>
-          <p class="card-desc">An immersive personal narrative journey through life's small moments.</p>
-          <a href="./adayastory/" target="_blank" rel="noopener" class="card-cta">
-            Launch Experience
-          </a>
-        </article>
-
-        <!-- My Culinary Galaxy -->
-        <article class="product-card" style="--accent: #a855f7;">
-          <span class="card-category">Creative Cooking</span>
-          <h2 class="card-title">My Culinary Galaxy</h2>
-          <p class="card-desc">Explore a universe of flavors and recipe experiments in our cosmic kitchen.</p>
-          <a href="./myculinarygalaxy/" target="_blank" rel="noopener" class="card-cta">
-            Enter Galaxy
-          </a>
-        </article>
-
-
-
-      </div>
-    </section>
-
-  </main>
-
-  <footer style="text-align:center; padding: 2rem; font-size:0.8rem; color:#475569;">
-    <p>&copy; <a href="https://itechgenie.com" style="color:#94a3b8;">ITechGenie.com</a></p>
-  </footer>
-
-</body>
-
-</html>
