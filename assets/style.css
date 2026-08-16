@@ -300,6 +300,20 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   margin-top: auto; padding-top: 2.5rem;
   font-size: 0.8rem; color: #cbd5e1;
   text-align: center;
+  display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
+}
+
+.subpage-footer .back-home {
+  display: inline-flex; align-items: center; gap: 0.35rem;
+  font-size: 0.8rem; font-weight: 600;
+  color: var(--accent);
+  letter-spacing: 0.02em;
+  transition: color var(--transition), gap var(--transition);
+}
+
+.subpage-footer .back-home:hover {
+  color: #ffffff;
+  gap: 0.55rem;
 }
 
 .subpage-footer a { color: #e2e8f0; }
