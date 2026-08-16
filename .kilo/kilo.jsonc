@@ -1,0 +1,6 @@
+{
+  "$schema": "https://app.kilo.ai/config.json",
+  "indexing": {
+    "model": "sentence-transformers/all-minilm-l6-v2"
+  }
+}
