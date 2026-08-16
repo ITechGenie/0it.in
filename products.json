@@ -116,7 +116,7 @@
     },
     {
       "slug": "dodl",
-      "name": "Dodl",
+      "name": "Dodl (Do-dl / Doodle)",
       "category": "Creating Apps",
       "tagline": "A classic doodle playground designed for real-time sharing with loved ones, local network drawing, and solo creativity",
       "description": "A classic doodle playground designed for real-time sharing with loved ones, local network drawing, and solo creativity. Enjoy seamless multi-user sessions, offline local connectivity, and a nostalgic drawing experience anywhere, anytime.",
@@ -128,7 +128,7 @@
       "links": [
         {
           "icon": "playstore",
-          "label": "Download Dodl App",
+          "label": "Download Dodl (Do-dl / Doodle) App",
           "url": "https://play.google.com/store/apps/details?id=com.itechgenie.apps.dodl"
         },
         {
